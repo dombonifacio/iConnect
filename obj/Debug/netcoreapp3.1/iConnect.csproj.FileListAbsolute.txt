@@ -80,3 +80,5 @@ C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.dl
 C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.pdb
 C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.genruntimeconfig.cache
 C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.csproj.CopyComplete
+C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs

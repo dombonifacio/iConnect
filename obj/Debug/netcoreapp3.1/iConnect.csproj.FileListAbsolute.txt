@@ -82,3 +82,11 @@ C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.ge
 C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.csproj.CopyComplete
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs

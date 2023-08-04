@@ -1,16 +1,19 @@
-﻿@*@{
-	ViewData["Title"] = "Update Contact";
-}
+﻿@model Contact
 
-<h1>Update an Inventory <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h1>
+<h1>Update New Contact</h1>
+<h2 class="alert-danger">@ViewBag.Result</h2>
 <form method="post">
 	<div class="form-group">
-		<label asp-for="First_Name"></label>
-		<input class="form-control" asp-for="First_Name" />
+		<label asp-for="ContactID"></label>
+		<input class="form-control" asp-for="ContactID" />
 	</div>
 	<div class="form-group">
-		<label asp-for="Last_Name"></label>
-		<input class="form-control" asp-for="Last_Name" />
+		<label asp-for="FirstName"></label>
+		<input class="form-control" asp-for="FirstName" />
+	</div>
+	<div class="form-group">
+		<label asp-for="LastName"></label>
+		<input class="form-control" asp-for="LastName" />
 	</div>
 	<div class="form-group">
 		<label asp-for="Email"></label>
@@ -32,4 +35,7 @@
 		<label asp-for="Group"></label>
 		<input class="form-control" asp-for="Group" />
 	</div>
-</form>*@
+	<div class="text-center panel-body">
+		<button type="submit" class="btn btn-sm btn-primary">Create</button>
+	</div>
+</form>

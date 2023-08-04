@@ -76,6 +76,7 @@ C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -88,3 +89,13 @@ C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.cs
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.dll
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.pdb
 C:\Users\000464085\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\iConnect.genruntimeconfig.cache
+=======
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\000447040\Documents\GitHub\iConnect\obj\Debug\netcoreapp3.1\Razor\Views\Home\Update.cshtml.g.cs
+>>>>>>> 617b00c50c01438b6f2e7e4ddf32a3a7d5ad3ec0

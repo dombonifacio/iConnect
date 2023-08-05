@@ -1,3 +1,24 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<iConnect.Models.Contact>
+
+@{
+    ViewData["Title"] = "Index";
 }
+
+
+<h1>Index></h1>
+
+<p>
+   <a asp-action="Create">Add New Contact</a>
+</p>
+
+@*<div class="container">
+    @foreach (var contact in Contact)
+    {
+        <div class="contact-box">
+            <h3>@contact.FirstName</h3>
+            <p>Email: @contact.Email</p>
+            <!-- Add other contact properties as needed -->
+        </div>
+    }
+
+</div>*@

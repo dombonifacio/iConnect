@@ -1,12 +1,20 @@
-﻿@model Contact
+﻿@model iConnect.Models.Contact
 
-<h1>Add A New Contact</h1>
-<h2 class="alert-danger">@ViewBag.Result</h2>
-<form method="post">
-	<div class="form-group">
-		<label asp-for="ContactID"></label>
-		<input class="form-control" asp-for="ContactID" />
+@{
+    ViewData["Title"] = "Create Contact";
+}
+
+
+<h1 class="font-bold text-2xl">Add A New Contact</h1>
+@if (!string.IsNullOrEmpty(ViewBag.Result))
+{
+	<div class="bg-teal-100 border-t border-b border-teal-500 text-teal-700 px-4 py-3">
+		<p class="font-bold">Success</p>
+		<p class="text-sm">@ViewBag.Result</p>
 	</div>
+}
+
+<form method="post">
 	<div class="form-group">
 		<label asp-for="FirstName"></label>
 		<input class="form-control" asp-for="FirstName" />
@@ -31,10 +39,7 @@
 		<label asp-for="Relationship"></label>
 		<input class="form-control" asp-for="Relationship" />
 	</div>
-	<div class="form-group">
-		<label asp-for="Group"></label>
-		<input class="form-control" asp-for="Group" />
-	</div>
+
 	<div class="text-center panel-body">
 		<button type="submit" class="btn btn-sm btn-primary">Create</button>
 	</div>
